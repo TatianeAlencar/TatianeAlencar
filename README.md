@@ -1,7 +1,7 @@
 ### HEY, I'M Tatiane Alencar 🙋‍♀️:
 
 
-- 🔎 QA Tester Trainee
+- 🔎 Software Tester Trainee
 - 🌱 C/C++ | SQl | HTML | Javascript
 - ✋ I accept improvement sugetões for my codes
 - 📬 Linkedin: 
