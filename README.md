@@ -1,6 +1,3 @@
-### HEY, I'M Tatiane Alencar 🙋‍♀️:
-
-
 - 🔎 Software Tester Trainee
 - 🌱 C/C++ | SQl | HTML | Javascript
 - ✋ I accept improvement sugetões for my codes
